@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/VahanPetrosyan6" target="blank"><img src="https://img.shields.io/twitter/follow/VahanPetrosyan6?logo=twitter&style=for-the-badge" alt="VahanPetrosyan6" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a href="https://petrosyan.pw" target="blank">petrosyan.pw</a>
+- 👨‍💻 All of my projects are available at <a href="https://petrosyan.tech" target="blank">petrosyan.tech</a>
 
 - 📝 I regularly write articles on [facebook or my website]
 
