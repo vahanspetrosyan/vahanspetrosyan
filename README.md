@@ -23,6 +23,7 @@
 <a href="https://twitter.com/VahanPetrosyan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VahanPetrosyan6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vahanpetrosyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vahanpetrosyan" height="30" width="40" /></a>
 <a href="https://fb.com/vahanspetrosyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vahanspetrosyan" height="30" width="40" /></a>
+  <a href="https://tg.me/vahanpetrosyan" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Telegram-512.png" alt="vahanpetrosyan" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
