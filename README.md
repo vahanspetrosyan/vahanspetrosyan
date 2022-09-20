@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **php, javascript, vue, react, react-native**
 
-- 📫 How to reach me **vahanspetrosyan@gmail.com**
+- 📫 How to reach me **vahan@petrosyan.tech**
 
 - ⚡ Fun fact **I think laravel and symfony enough for web :D offcourse with js frontend framework if need))**
 
