@@ -98,21 +98,20 @@ Now that we have that out of the way, let me tell you a bit about myself
 
 <p align="center">
   <a href="https://github.com/vahanspetrosyan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vahanspetrosyan&theme=dracula" alt="Vahan's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vahanspetrosyan&theme=radical" alt="Vahan's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vahanspetrosyan">
-    <img src="https://github-profile-trophy.vercel.app/?username=vahanspetrosyan&theme=dracula&column=6&margin-w=15&margin-h=15" alt="Vahan's GitHub trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=vahanspetrosyan&theme=radical&column=6&margin-w=15&margin-h=15" alt="Vahan's GitHub trophy"/>
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/vahanspetrosyan"><img alt="Vahan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vahanspetrosyan&show_icons=true&theme=dracula" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/vahanspetrosyan"><img alt="Vahan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vahanspetrosyan&langs_count=8&layout=compact&theme=dracula" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<p> 
+    <a href="https://github.com/vahanspetrosyan"><img alt="Vahan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vahanspetrosyan&show_icons=true&theme=radical" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/vahanspetrosyan"><img alt="Vahan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vahanspetrosyan&langs_count=8&layout=compact&theme=radical" height="192px" width="49.5%"/></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/vahanspetrosyan">
