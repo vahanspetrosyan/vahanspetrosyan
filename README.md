@@ -1,34 +1,128 @@
-<h1 align="center">Hi 👋, I'm Vahan Petrosyan</h1>
-<h3 align="center">A passionate Full Stack Developer from Armenia</h3>
-<h4 align="center">"It always seems impossible until it's done."</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayvazyan10&label=Profile%20views&color=0e75b6&style=flat" alt="vahanspetrosyan" /> </p>
+<a href="https://komarev.com/ghpvc/?username=vahanspetrosyan">
+  <img align="right" src="https://komarev.com/ghpvc/?username=vahanspetrosyan&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vahanspetrosyan&theme=flat&no-frame=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![wakatime](https://wakatime.com/badge/user/a02d8632-60ab-476a-bcfc-278caf22e300.svg)](https://wakatime.com/@a02d8632-60ab-476a-bcfc-278caf22e300)
 
-<p align="left"> <a href="https://twitter.com/VahanPetrosyan6" target="blank"><img src="https://img.shields.io/twitter/follow/VahanPetrosyan6?logo=twitter&style=for-the-badge" alt="VahanPetrosyan6" /></a> </p>
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://petrosyan.tech">Vahan Petrosyan</a></b>
+        </samp>
+</h3>
 
-- 👨‍💻 All of my projects are available at <a href="https://petrosyan.tech" target="blank">petrosyan.tech</a>
-
-- 📝 I regularly write articles on [facebook or my website]
-
-- 💬 Ask me about **php, javascript, vue, react, react-native**
-
-- 📫 How to reach me **vahan@petrosyan.tech**
-
-- ⚡ Fun fact **I think laravel and symfony enough for web :D offcourse with js frontend framework if need))**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/VahanPetrosyan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VahanPetrosyan6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vahanpetrosyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vahanpetrosyan" height="30" width="40" /></a>
-<a href="https://fb.com/vahanspetrosyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vahanspetrosyan" height="30" width="40" /></a>
-  <a href="https://t.me/vpetrosyan" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Telegram-512.png" alt="vpetrosyan" height="30" width="30" /></a>
+<p align="center"> 
+  <samp>
+    「 I am a Software Engineer from <b>Armenia</b> 」
+    <br />
+    <br />
+  </samp>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+ <a href="https://petrosyan.tech" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://linkedin.com/in/vahanpetrosyan" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <a href="https://dev.to/alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://twitter.com/VahanPetrosyan6" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/vahan.rw" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://facebook.com/vahanspetrosyan" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+ <a href="https://t.me/vpetrosyan" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-0e76a8?&style=for-the-badge&logo=Telegram&logoColor=white" alt="alsiam"  />
+  </a> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vahanspetrosyan&show_icons=true&locale=en" alt="vahanspetrosyan" /></p>
+# About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vahanspetrosyan&" alt="vahanspetrosyan" /></p>
+[//]: # ([![Typing SVG]&#40;https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;and+a+homemade+chef%3F&#41;]&#40;https://git.io/typing-svg&#41;)
+
+<!-- markdownlint-disable MD033 -->
+<a href="https://app.daily.dev/vahanpetrosyan"><img src="https://api.daily.dev/devcards/b5c76721cbb1491f8b61aa8b931ffab4.png?r=96o" width="200" align="right" alt="Vahan Petrosyan's Dev Card"/></a>
+<!-- markdownlint-enable MD033 -->
+
+Now that we have that out of the way, let me tell you a bit about myself
+
+* 🖨️ I write solution articles and explore cards for <a href="https://www.leetcode.com">Leetcode</a> on the side.
+* ⚡ Fun fact ... hmm... I will think something 😄
+* ⛰️Love exploring off-beat hikes and peaks in the Pacific Northwest. My absolute favorite
+* 😄 Pronouns: He/him
+* 🤯 A strange fact about me: I love to write complete sentences and over-explain myself, especially in unnecessary situations!
+* 📫 How to reach me vahan@petrosyan.tech
+
+<br />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=It+always+seems+impossible;until+it's+done.)](https://git.io/typing-svg)
+
+<br />
+
+## Use To Code
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![PHP](https://img.shields.io/badge/PHP-593D88?style=for-the-badge&labelColor=black&logo=php)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🎧 What's Vibin?
+
+[![Spotify](https://github.com/edorado93/edorado93/blob/main/spotify.svg)]()
+
+## 👨‍💻 Github Stats
+
+<p align="center">
+  <a href="https://github.com/vahanspetrosyan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vahanspetrosyan&theme=dracula" alt="Vahan's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vahanspetrosyan">
+    <img src="https://github-profile-trophy.vercel.app/?username=vahanspetrosyan&theme=dracula&column=6&margin-w=15&margin-h=15" alt="Vahan's GitHub trophy"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/vahanspetrosyan"><img alt="Vahan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vahanspetrosyan&show_icons=true&theme=dracula" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/vahanspetrosyan"><img alt="Vahan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vahanspetrosyan&langs_count=8&layout=compact&theme=dracula" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+<p align="center">
+  <a href="https://github.com/vahanspetrosyan">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vahanspetrosyan&theme=radical" alt="Vahan's GitHub Contribution"/>
+  </a>
+</p>
+
+![Vahan's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vahanspetrosyan&custom_title=Vahan's%20GitHub%20Activity%20Graph&area=true&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
