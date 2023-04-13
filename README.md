@@ -77,6 +77,8 @@ Now that we have that out of the way, let me tell you a bit about myself
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658c?style=for-the-badge&logo=postgresql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0b47a1?style=for-the-badge&logo=angular&logoColor=dd0132)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -89,6 +91,9 @@ Now that we have that out of the way, let me tell you a bit about myself
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-06adf5?style=for-the-badge&logo=webstorm&logoColor=06adf5&labelColor=black)
+![PHPStorm](https://img.shields.io/badge/PHPStorm-a247eb?style=for-the-badge&logo=phpstorm&logoColor=a247eb&labelColor=black)
+![DataGrip](https://img.shields.io/badge/DataGrip-2ac887?style=for-the-badge&logo=datagrip&logoColor=2ac887&labelColor=black)
 
 ## 🎧 What's Vibin?
 
