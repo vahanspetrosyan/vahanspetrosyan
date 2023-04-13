@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vahanspetrosyan" alt="vahanspetrosyan" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vahanspetrosyan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <a href="https://twitter.com/VahanPetrosyan6" target="blank"><img src="https://img.shields.io/twitter/follow/VahanPetrosyan6?logo=twitter&style=for-the-badge" alt="VahanPetrosyan6" /></a> </p>
 
 - 👨‍💻 All of my projects are available at <a href="https://petrosyan.tech" target="blank">petrosyan.tech</a>
