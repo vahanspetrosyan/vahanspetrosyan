@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayvazyan10&label=Profile%20views&color=0e75b6&style=flat" alt="vahanspetrosyan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vahanspetrosyan" alt="vahanspetrosyan" /></a> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vahanspetrosyan&theme=flat&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vahanspetrosyan&theme=flat&no-frame=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/VahanPetrosyan6" target="blank"><img src="https://img.shields.io/twitter/follow/VahanPetrosyan6?logo=twitter&style=for-the-badge" alt="VahanPetrosyan6" /></a> </p>
 
