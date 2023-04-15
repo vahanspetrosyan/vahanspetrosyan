@@ -3,7 +3,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=vahanspetrosyan&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/a02d8632-60ab-476a-bcfc-278caf22e300.svg)](https://wakatime.com/@a02d8632-60ab-476a-bcfc-278caf22e300)
+[![wakatime](https://wakatime.com/badge/user/a02d8632-60ab-476a-bcfc-278caf22e300.svg)]()
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
