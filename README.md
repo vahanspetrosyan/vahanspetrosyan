@@ -58,7 +58,7 @@ Now that we have that out of the way, let me tell you a bit about myself
 * ⛰️Love exploring off-beat hikes and peaks in the Pacific Northwest. My absolute favorite
 * 😄 Pronouns: He/him
 * 🤯 A strange fact about me: I love to write complete sentences and over-explain myself, especially in unnecessary situations!
-* 📫 How to reach me vahan@petrosyan.tech
+* 📫 How to reach me vahan@petrosyan.tech. You can write me on telegram as well <a href="https://t.me/vpetrosyan">@vpetrosyan</a>
 
 <br />
 
