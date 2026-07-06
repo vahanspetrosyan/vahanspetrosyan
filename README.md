@@ -1,4 +1,3 @@
-
 <a href="https://komarev.com/ghpvc/?username=vahanspetrosyan">
   <img align="right" src="https://komarev.com/ghpvc/?username=vahanspetrosyan&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -48,6 +47,7 @@
 Now that we have that out of the way, let me tell you a bit about myself
 
 * 🖨️ I write solution articles and explore cards for <a href="https://www.leetcode.com">Leetcode</a> on the side.
+* 🤖 Building AI-powered products — from LLM-driven multi-agent systems to mobile apps with AI-narrated content.
 * ⚡ Fun fact ... hmm... I will think something 😄
 * ⛰️Love exploring off-beat hikes and peaks in the Pacific Northwest. My absolute favorite
 * 😄 Pronouns: He/him
@@ -65,13 +65,16 @@ Now that we have that out of the way, let me tell you a bit about myself
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![PHP](https://img.shields.io/badge/PHP-593D88?style=for-the-badge&labelColor=black&logo=php)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658c?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-0b47a1?style=for-the-badge&logo=angular&logoColor=dd0132)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -88,6 +91,23 @@ Now that we have that out of the way, let me tell you a bit about myself
 ![WebStorm](https://img.shields.io/badge/WebStorm-06adf5?style=for-the-badge&logo=webstorm&logoColor=06adf5&labelColor=black)
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-a247eb?style=for-the-badge&logo=phpstorm&logoColor=a247eb&labelColor=black)
 ![DataGrip](https://img.shields.io/badge/DataGrip-2ac887?style=for-the-badge&logo=datagrip&logoColor=2ac887&labelColor=black)
+
+## 🤖 AI & LLM Development
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4B0082?style=for-the-badge)
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-2E8B57?style=for-the-badge)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-FA233B?style=for-the-badge&logo=revenuecat&logoColor=white)
+
+* 🧠 Designing and shipping LLM-powered products end to end — from prompt/agent architecture to production mobile & backend integration.
+* 🕸️ Building multi-agent systems (Anthropic SDK + LangGraph) that plan, build, and QA software autonomously.
+* 📱 Shipping AI-narrated content apps with React Native/Expo, Supabase, and RevenueCat for subscriptions.
+* 🧩 Using Claude Code with structured project specs (CLAUDE.md / PROJECT_SPEC.md / BUILD_PLAN.md) to drive solo builds.
 
 ## 🎧 What's Vibin?
 
